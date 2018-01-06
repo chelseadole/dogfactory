@@ -1,4 +1,3 @@
-ls
 # dogfactory
 ---
 ### Description
@@ -33,7 +32,7 @@ Now now that you have cloned your repo and changed directories into the project,
 
 `$ source ENV/bin/activate`
 
-`$ pip install -r requirements.txt`
+`$ pip install -e .`
 ### Test Suite
 ---
 This repository contains no tests.
@@ -48,6 +47,7 @@ This project is licensed under MIT License - see the LICENSE.md file for details
 
 ### Acknowledgements
 ---
-* Coffee
+* Dogs of the world
+* The write-me team
 
 *This README was generated using [writeme.](https://github.com/chelseadole/write-me)*

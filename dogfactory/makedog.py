@@ -29,4 +29,4 @@ def main():
     if args.small:
         return small()
     else:
-        return 'd o g    c r e a t e d'
+        return '~ d o g    c r e a t e d ~'
